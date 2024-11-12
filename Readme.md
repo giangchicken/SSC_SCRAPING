@@ -39,10 +39,10 @@ To evaluate the efficiency of different libraries for web scraping, I tested the
 
 ## Sequence and multi-processing Performance Comparison
 
-| Method                         | Time Taken (Avg) | Nb firm | Memory Usage (Avg) |
-| :----------------------------- | :--------------: | :-----: | ------------------:|
-| Sequence                       |   230 minutes    |     5   |         88MB       |
-| multi-processing (5 processes) |   45 minutes     |     5   |        450MB       |
+| Method                                    | Time Taken (Avg) | Nb firm | Memory Usage (Avg) |
+| :---------------------------------------- | :--------------: | :-----: | ------------------:|
+| Sequence                                  |   230 minutes    |     5   |         88MB       |
+| Playwright Multi-processing (5 processes) |   45 minutes     |     5   |        450MB       |
 
 ## Guidelines
 ### 1. **Edit Configuration (config_playwright.json)** 
