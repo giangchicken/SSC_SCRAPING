@@ -76,7 +76,7 @@ Open **config_playwright.json** in the **tools** folder. This file will include 
     },
     "output_dir" : "./crawl_table",
     "logging_dir": "E:/PUBLIC_DATA_PROJECT/Optimizing_scraping/logging",
-    "max_retries": 10
+    "max_retries": 10   //Số lần thử crawl lại với mỗi symbol khi gặp lỗi trong 1 quá trình scrape
     }
 ```
 
