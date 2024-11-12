@@ -6,20 +6,21 @@
 
 
 ## Environment Setup
-1. **Clone the repository** and navigate into the project directory:
+### 1. **Clone the repository** and navigate into the project directory:
 
-   ```bash
-   git clone <repo-link>
-   cd <repo-directory>
-
-2. **Install Required Packages**
-    ```bash
+```bash
+   git clone https://github.com/giangchicken/SSC_SCRAPING.git
+   cd SSC_SCRAPING
+```
+### 2. **Install Required Packages**
+```bash
     pip install -r requirements.txt
-
-3. **Install Playwright Browsers**      
-    ```bash
+```
+### 3. **Install Playwright Browsers**      
+```bash
     python -m playwright install
     python -m playwright install chromium
+```
 
 ## Performance Comparison
 To evaluate the efficiency of different libraries for web scraping, I tested the script using three methods: **Selenium**, **Selenium with BeautifulSoup**, and **Playwright**. The results are as follows:
@@ -38,8 +39,10 @@ To evaluate the efficiency of different libraries for web scraping, I tested the
 | multi-processing (5 processes) |   45 minutes     |     5   |        450MB       |
 
 ## Guidelines
-1. **Edit Configuration (config_playwright.json)**: Open **config_playwright.json** in the **tools** folder. This file will include essential configurations for the **FinanceCrawler** class, such as base URL, browser settings, max retries, and storage folder.
-    ```json
+### 1. **Edit Configuration (config_playwright.json)** 
+Open **config_playwright.json** in the **tools** folder. This file will include essential configurations for the **FinanceCrawler** class, such as base URL, browser settings, max retries, and storage folder.
+
+```json
     {
     "url": "https://congbothongtin.ssc.gov.vn",
     "start_date" : "01/01/2000",
@@ -69,10 +72,12 @@ To evaluate the efficiency of different libraries for web scraping, I tested the
     "logging_dir": "E:/PUBLIC_DATA_PROJECT/Optimizing_scraping/logging",
     "max_retries": 10
     }
+```
 
-2. **Create symbols file**: Ensure a symbols file exists, e.g., symbols.csv, with stock symbols to be scraped.
+### 2. **Create symbols file** 
+Ensure a symbols file exists, e.g., symbols.csv, with stock symbols to be scraped.
 
-3. **Set up parameters for multi-processing**
+### 3. **Set up parameters for multi-processing**
 Use the following parameters when running the script: 
 ```
     parser = argparse.ArgumentParser(description="Run financial data scraping with Playwright.")
@@ -82,15 +87,15 @@ Use the following parameters when running the script:
 ```
 
 
-4. Run the script
+### 4. Run the script
 Use the following command to run the scraping script:
-'''
+```
     python .\playwright_multiprocessing.py --timeout_per_process 3200 --symbols_file symbols.csv 
-'''
+```
 
-5. **Erroneous scraped symbols checking and re-scraping**:
+### 5. **Erroneous scraped symbols checking and re-scraping**:
 f any errors occur during scraping, use the **check_warning.ipynb** notebook to identify problematic symbols, and create an error_symbols.csv file with symbols requiring re-scraping. Run **check_warning.ipynb**  and the script again to re-scrape:
  
-'''
+```
     python .\playwright_multiprocessing.py --timeout_per_process 3200 --symbols_file error_symbols.csv
-'''
+```
