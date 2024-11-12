@@ -1,0 +1,25 @@
+{
+    "base_url": "https://congbothongtin.ssc.gov.vn",
+    "start_date": "01/01/2000",
+    "end_date": "01/01/2025",
+    "type_report": "Báo cáo tài chính Hợp nhất - Năm",
+    "output_dir": "",
+    "element_ids": {
+        "search_box": "pt9:it8112",
+        "start_date": "pt9:id1",
+        "end_date": "pt9:id2",
+        "search_button": "pt9:b1",
+        "table": "pt9:t1",
+        "company_code_id": "pt2:plam1",
+        "company_name_id": "pt2:plam3",
+        "title_id": "pt2:plam2",
+        "company_code_CLS": "xth.xtk",
+        "company_name_CLS": "xth.xtk",
+        "title_CLS": "xth.xtk",        
+        "financial_tables": ["pt2:BCDKT::disAcr", "pt2:KQKD::disAcr", "pt2:LCTT-TT::disAcr", "pt2:LCTT-GT::disAcr"],
+        "next_button_class": "x14i",
+        "header_class": "x14z",
+        "table_class": "x13b",
+        "row_class": "x14o"
+    }
+}

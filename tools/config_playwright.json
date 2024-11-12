@@ -1,0 +1,29 @@
+{
+    "url": "https://congbothongtin.ssc.gov.vn",
+    "start_date" : "01/01/2000",
+    "end_date" : "01/01/2025",
+    "type_report" : "Báo cáo tài chính Hợp nhất - Năm",
+    "elements": {
+        "search_box": "#pt9\\:it8112\\:\\:content",           
+        "start_date": "#pt9\\:id1\\:\\:content",                           
+        "end_date": "#pt9\\:id2\\:\\:content",                              
+        "search_button": "#pt9\\:b1\\:\\:content",                         
+        "table": "#pt9\\:t1",                                
+        "company_code_id": "#pt2\\:plam1",                  
+        "company_name_id": "#pt2\\:plam3",                    
+        "title_id": "#pt2\\:plam2",                            
+        "company_code_CLS": ".xth.xtk",                      
+        "company_name_CLS": ".xth.xtk",                      
+        "title_CLS": ".xth.xtk",                              
+        "financial_tables": ["#pt2\\:BCDKT\\:\\:disAcr", "#pt2\\:KQKD\\:\\:disAcr", "#pt2\\:LCTT-TT\\:\\:disAcr", "#pt2\\:LCTT-GT\\:\\:disAcr"],
+        "next_button_class": "#pt9\\:t1\\:\\:nb_nx",
+        "total_reports": "#pt9\\:t1\\:\\:nb_rng",                     
+        "header_class": "x150",                              
+        "table_class": "x13b",                            
+        "row_class": "x221",
+        "page": "#pt9\\:t1\\:\\:nb_pg"                                
+    },
+    "output_dir" : "./crawl_table",
+    "logging_dir": "E:/PUBLIC_DATA_PROJECT/Optimizing_scraping/logging",
+    "max_retries": 10
+}
