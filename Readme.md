@@ -1,5 +1,11 @@
 # Web Scraping Financial Data from SSC using Playwright
 
+In this repo, we'll set up to scrape **Balance Sheet**, **Income Statement**, and **Cashflow Statement** from SSC.
+
+**Balance Sheet**|  **Income Statement** |  **Cashflow Statement**
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./images/Screenshot%202024-11-12%20113709.png)|![](./images/Screenshot%202024-11-12%20113755.png)|![](./images/Screenshot%202024-11-12%20113821.png)
+
 ## System Requirements
 - Python 3.7 or higher
 - pip (Python package installer)
