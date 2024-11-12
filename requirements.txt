@@ -1,1 +1,7 @@
 pandas
+numpy
+tqdm
+logging
+multiprocess
+argparse
+playwright
