@@ -1,0 +1,10 @@
+2024-11-22 01:22:40,077 - INFO - Scraping Successfully BMI: 23/23
+2024-11-22 01:28:11,890 - INFO - Scraping Successfully BLI: 35/35
+2024-11-22 01:30:34,232 - INFO - Scraping Successfully BMC: 40/40
+2024-11-22 01:35:41,705 - INFO - Scraping Successfully BKG: 50/50
+2024-11-22 01:40:34,724 - INFO - Scraping Successfully BLF: 59/59
+2024-11-22 01:47:27,749 - INFO - Scraping Successfully BHN: 71/71
+2024-11-22 01:48:48,396 - INFO - Scraping Successfully BKC: 73/73
+2024-11-22 01:48:48,632 - WARNING - Not enough reports BII: 72/73
+2024-11-22 01:52:31,311 - INFO - Scraping Successfully BIC: 79/79
+2024-11-22 02:02:04,375 - INFO - Scraping Successfully BID: 94/94

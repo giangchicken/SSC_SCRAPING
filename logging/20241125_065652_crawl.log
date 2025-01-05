@@ -1,0 +1,8 @@
+2024-11-25 07:02:35,203 - WARNING - Not enough reports SMC: 0/21723
+2024-11-25 07:02:36,835 - WARNING - Not enough reports SMB: 0/21723
+2024-11-25 07:02:36,947 - WARNING - Not enough reports SP2: 0/21723
+2024-11-25 07:02:41,197 - WARNING - Not enough reports SLS: 0/21723
+2024-11-25 07:18:46,165 - INFO - Scraping Successfully SMA: 37/37
+2024-11-25 07:21:52,741 - INFO - Scraping Successfully SMN: 41/41
+2024-11-25 07:35:59,833 - WARNING - Not enough reports SPD: 60/45
+2024-11-25 07:51:10,564 - INFO - Scraping Successfully SNZ: 81/81

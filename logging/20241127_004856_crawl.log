@@ -1,0 +1,2 @@
+2024-11-27 01:03:37,686 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-778' coro=<Locator.inner_text() done, defined at D:\DATN\.venv\lib\site-packages\playwright\_impl\_locator.py:442> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at D:\DATN\.venv\lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at D:\DATN\.venv\lib\site-packages\playwright\_impl\_connection.py:195]>

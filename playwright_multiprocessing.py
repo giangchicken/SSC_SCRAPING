@@ -185,7 +185,7 @@ if __name__ == "__main__":
 
     symbols_df = pd.read_csv(args.symbols_file)
     symbols = symbols_df['symbol'].tolist()
-    split_symbols = [symbols[i:i + 5] for i in range(0, len(symbols), 5)]
+    split_symbols = [symbols[i:i + 30] for i in range(0, len(symbols), 30)]
 
     # split_symbols = [["VIC", "HPG", "MSN", "FPT", "VPB"]]
 

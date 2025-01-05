@@ -1,0 +1,11 @@
+2024-11-24 17:40:32,007 - INFO - Scraping Successfully PCM: 27/27
+2024-11-24 17:47:08,020 - INFO - Scraping Successfully PCH: 41/41
+2024-11-24 18:01:55,048 - INFO - Scraping Successfully PGS: 68/68
+2024-11-24 18:03:08,236 - INFO - Scraping Successfully PBC: 70/70
+2024-11-24 18:09:04,508 - INFO - Scraping Successfully PGC: 80/80
+2024-11-24 18:11:05,822 - INFO - Scraping Successfully PC1: 83/83
+2024-11-24 18:11:06,434 - INFO - Scraping Successfully PHC: 83/83
+2024-11-24 18:11:50,653 - INFO - Scraping Successfully PDB: 84/84
+2024-11-24 18:13:01,205 - INFO - Scraping Successfully PDR: 86/86
+2024-11-24 18:15:38,072 - WARNING - Not enough reports PCG: 90/75
+2024-11-24 18:34:46,435 - WARNING - Not enough reports PEG: 125/76

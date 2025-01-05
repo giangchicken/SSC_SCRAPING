@@ -1,0 +1,14 @@
+2024-11-22 13:21:54,348 - INFO - Scraping Successfully DWC: 28/28
+2024-11-22 13:27:41,006 - INFO - Scraping Successfully DXV: 40/40
+2024-11-22 13:28:33,053 - INFO - Scraping Successfully EIC: 42/42
+2024-11-22 13:29:33,652 - INFO - Scraping Successfully DVP: 44/44
+2024-11-22 13:29:38,184 - INFO - Scraping Successfully DXP: 44/44
+2024-11-22 13:31:46,020 - INFO - Scraping Successfully DWS: 48/48
+2024-11-22 13:36:34,206 - WARNING - Not enough reports ECI: 52/57
+2024-11-22 13:38:02,756 - INFO - Scraping Successfully DXS: 45/45
+2024-11-22 13:42:18,913 - WARNING - Not enough reports EBS: 63/67
+2024-11-22 13:45:13,036 - WARNING - Not enough reports DZM: 71/72
+2024-11-22 13:48:50,531 - INFO - Scraping Successfully DXG: 78/78
+2024-11-22 13:50:50,793 - INFO - Scraping Successfully ELC: 81/81
+2024-11-22 13:51:30,654 - WARNING - Not enough reports EID: 77/82
+2024-11-22 13:51:58,840 - INFO - Scraping Successfully EIB: 83/83

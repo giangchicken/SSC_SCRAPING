@@ -1,0 +1,31 @@
+Chỉ tiêu,Mã số,Thuyết minh,Lũy kế từ đầu năm đến cuối kỳ này Năm nay,Lũy kế từ đầu năm đến cuối kỳ này Năm trước
+I. Lưu chuyển tiền từ hoạt động kinh doanh,,,,
+"1. Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác",01,,"298,033,005,140",0
+2. Tiền chi trả cho người cung cấp hàng hóa và dịch vụ,02,,"-46,923,334,835",0
+3. Tiền chi trả cho người lao động,03,,"-96,334,550,003",0
+4. Tiền lãi vay đã trả,04,,"-1,977,890,409",0
+5. Thuế thu nhập doanh nghiệp đã nộp,05,,"-7,945,733,009",0
+6. Tiền thu khác từ hoạt động kinh doanh,06,,"24,962,830,851",0
+7. Tiền chi khác cho hoạt động kinh doanh,07,,"-85,534,252,928",0
+Lưu chuyển tiền thuần từ hoạt động kinh doanh,20,,"84,280,074,807",0
+II. Lưu chuyển tiền từ hoạt động đầu tư,,,,
+"1.Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",21,,"-31,781,578,308",0
+"2.Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",22,,"12,927,927,538",0
+"3.Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",23,,"-5,000,000,000",0
+"4.Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",24,,"70,000,000,000",0
+5.Tiền chi đầu tư góp vốn vào đơn vị khác,25,,0,0
+6.Tiền thu hồi đầu tư góp vốn vào đơn vị khác,26,,"5,000,000,000",0
+"7.Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",27,,"3,585,363,133",0
+Lưu chuyển tiền thuần từ hoạt động đầu tư,30,,"54,731,712,363",0
+III. Lưu chuyển tiền từ hoạt động tài chính,,,,
+"1.Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",31,,0,0
+"2.Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",32,,0,0
+3. Tiền thu từ đi vay,33,,"29,000,000,000",0
+4.Tiền chi trả nợ gốc vay,34,,"-78,570,000,000",0
+5.Tiền chi trả nợ thuê tài chính,35,,0,0
+"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",36,,"-10,414,035,556",0
+Lưu chuyển tiền thuần từ hoạt động tài chính,40,,"-59,984,035,556",0
+Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40),50,,"79,027,751,614",0
+Tiền và tương đương tiền đầu kỳ,60,,"70,004,647,018",0
+Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,61,,0,0
+Tiền và tương đương tiền cuối kỳ (70 = 50+60+61),70,,"149,032,398,632",0

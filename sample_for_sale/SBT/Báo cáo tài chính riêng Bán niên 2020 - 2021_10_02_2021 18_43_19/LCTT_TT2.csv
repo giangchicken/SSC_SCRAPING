@@ -1,0 +1,43 @@
+Chỉ tiêu,Mã số,Thuyết minh,Lũy kế từ đầu năm đến cuối kỳ này Năm nay,Lũy kế từ đầu năm đến cuối kỳ này Năm trước
+I. Lưu chuyển tiền từ hoạt động kinh doanh,,,,
+1. Lợi nhuận trước thuế,01,,"332,854,708,936","117,642,301,972"
+2. Điều chỉnh cho các khoản,,,,
+- Khấu hao TSCĐ và BĐSĐT,02,,"248,583,114,640","228,452,999,816"
+- Các khoản dự phòng,03,,"-30,109,335,059","-40,014,895,576"
+"- Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệ",04,,"4,219,939,424","-2,349,262,349"
+"- Lãi, lỗ từ hoạt động đầu tư",05,,"-117,306,698,907","-462,519,726,473"
+- Chi phí lãi vay,06,,"308,246,105,446","316,062,724,166"
+- Các khoản điều chỉnh khác,07,,0,0
+3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động,08,,"746,487,834,480","157,274,141,556"
+"- Tăng, giảm các khoản phải thu",09,,"-676,346,390,015","602,935,006,098"
+"- Tăng, giảm hàng tồn kho",10,,"409,958,673,262","435,669,760,878"
+"- Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",11,,"899,196,629,632","252,635,674,578"
+"- Tăng, giảm chi phí trả trước",12,,"-138,772,451,475","-91,694,637,825"
+"- Tăng, giảm chứng khoán kinh doanh",13,,"-285,483,390,757","-358,534,587,521"
+- Tiền lãi vay đã trả,14,,"-307,144,171,459","-329,688,568,448"
+- Thuế thu nhập doanh nghiệp đã nộp,15,,"-134,168,375,491","-115,337,848,418"
+- Tiền thu khác từ hoạt động kinh doanh,16,,0,0
+- Tiền chi khác cho hoạt động kinh doanh,17,,"-1,405,213,955","-26,452,923,967"
+Lưu chuyển tiền thuần từ hoạt động kinh doanh,20,,"512,323,144,222","526,806,016,931"
+II. Lưu chuyển tiền từ hoạt động đầu tư,,,,
+"1.Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",21,,"-177,363,286,021","-58,455,919,124"
+"2.Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",22,,"5,917,160,946","2,774,850,204"
+"3.Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",23,,"-364,784,731,804","-131,331,093,700"
+"4.Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",24,,"30,000,000,000","266,680,000,000"
+5.Tiền chi đầu tư góp vốn vào đơn vị khác,25,,"-267,877,123,785","-1,828,396,823,867"
+6.Tiền thu hồi đầu tư góp vốn vào đơn vị khác,26,,"18,448,521,361","407,037,173,898"
+"7.Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",27,,"89,717,597,218","79,417,204,847"
+Lưu chuyển tiền thuần từ hoạt động đầu tư,30,,"-665,941,862,085","-1,262,274,607,742"
+III. Lưu chuyển tiền từ hoạt động tài chính,,,,
+"1.Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",31,,"304,175,950,000","1,785,905,320,066"
+2.Tiền trả lại vốn góp cho các chủ sở hữu mua lại cổ phiếu của doanh nghiệp đã phát hành,32,,0,0
+3.Tiền thu từ đi vay,33,,"9,938,078,485,722","6,504,315,999,861"
+4.Tiền chi trả nợ gốc vay,34,,"-9,750,062,811,666","-7,765,418,173,105"
+5.Tiền trả nợ gốc thuê tài chính,35,,"-29,981,489,531","-17,114,135,588"
+"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",36,,"-328,911,570,275","-214,041,303,745"
+7. Tiền thu từ vốn góp của cổ đông không kiểm soát,..37,,0,0
+Lưu chuyển tiền thuần từ hoạt động tài chính,40,,"133,298,564,250","293,647,707,489"
+Lưu chuyển tiền thuần trong kỳ (50 = 20+30+40),50,,"-20,320,153,613","-441,820,883,322"
+Tiền và tương đương tiền đầu kỳ,60,,"999,620,661,512","1,004,775,238,727"
+Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ,61,,"312,940,149","-6,290,476"
+Tiền và tương đương tiền cuối kỳ (70 = 50+60+61),70,,"979,613,448,048","562,948,064,929"

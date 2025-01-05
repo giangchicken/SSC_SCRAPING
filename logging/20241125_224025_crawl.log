@@ -1,0 +1,8 @@
+2024-11-25 22:41:26,728 - ERROR - Future exception was never retrieved
+future: <Future finished exception=BrokenPipeError(32, 'The pipe is being closed', None, 232, None)>
+Traceback (most recent call last):
+  File "C:\Users\CLIENT\AppData\Local\Programs\Python\Python310\lib\asyncio\proactor_events.py", line 401, in _loop_writing
+    self._write_fut = self._loop._proactor.send(self._sock, data)
+  File "C:\Users\CLIENT\AppData\Local\Programs\Python\Python310\lib\asyncio\windows_events.py", line 548, in send
+    ov.WriteFile(conn.fileno(), buf)
+BrokenPipeError: [WinError 232] The pipe is being closed

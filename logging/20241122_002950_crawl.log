@@ -1,0 +1,9 @@
+2024-11-22 00:35:36,616 - WARNING - Not enough reports BDT: 0/21720
+2024-11-22 00:35:36,930 - WARNING - Not enough reports BCV: 0/21720
+2024-11-22 00:35:36,946 - WARNING - Not enough reports BCO: 0/21720
+2024-11-22 00:35:37,090 - WARNING - Not enough reports BCF: 0/21720
+2024-11-22 00:40:13,691 - WARNING - Not enough reports BCP: 22/24
+2024-11-22 00:48:35,106 - INFO - Scraping Successfully BDB: 42/42
+2024-11-22 00:55:59,468 - INFO - Scraping Successfully BCE: 56/56
+2024-11-22 01:10:20,208 - INFO - Scraping Successfully BCG: 80/80
+2024-11-22 01:12:07,862 - INFO - Scraping Successfully BFC: 83/83

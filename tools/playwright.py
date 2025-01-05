@@ -25,7 +25,7 @@ class FinanceCrawler:
         self._setup_logging()
 
     def setup_browser(self, playwright):
-        self.browser = playwright.chromium.launch(headless=False)
+        self.browser = playwright.chromium.launch(headless=True)
         self.page = self.browser.new_page()
         self.page.goto(self.config['url'])
         self.page.wait_for_selector(self.config["elements"]["search_box"])
@@ -98,20 +98,66 @@ class FinanceCrawler:
     def save_report_details(self, title, date, tables, backup):
         safe_title = self.sanitize_filename(title)
         safe_date = self.sanitize_filename(date)
-        if len(title) > 130:
+        if (len(safe_title) > 50) or (len(title) < 2) or (title is None):
+            # print(safe_title + ": is too long")
             safe_title = self.sanitize_filename(backup)
+            # Nếu backup không hợp lệ, đặt tên là NO_NAME
+
+        base_report_dir = f"{self.config['output_dir']}/{self.symbol}/{safe_title}_{safe_date}"
+        if (len(base_report_dir) > 50) or (len(backup) < 2) or (backup is None):
+            # print(safe_title + ": is too long")
+            safe_title = "NO_NAME"
+
         # Tạo thư mục để lưu các báo cáo tài chính
-        report_dir = f"{self.config['output_dir']}/{self.symbol}/{safe_title}_{safe_date}"
-        os.makedirs(report_dir, exist_ok=True)
-        filenames = ["BCDKT.csv", "KQKT.csv", "LCTT_TT1.csv", "LCTT_TT2.csv"]
-        
-        for df, filename in zip(tables, filenames):
-            file_path = os.path.join(report_dir, filename)
-            if not os.path.exists(file_path):
-                df.to_csv(file_path, index=False)
-                # print(f"Đã lưu {file_path}")
-            # else:
-            #     print(f"Tệp {file_path} đã tồn tại, bỏ qua.")
+        base_report_dir = f"{self.config['output_dir']}/{self.symbol}/{safe_title}_{safe_date}"
+        report_dir = base_report_dir
+
+        try:
+            # Kiểm tra nếu thư mục đã tồn tại và chứa NO_NAME
+            counter = 1
+            while os.path.exists(report_dir):
+                # if "NO_NAME" in report_dir:
+                report_dir = f"{base_report_dir}__{counter}"
+                counter += 1
+                # else:
+                #     break
+
+            print("report dir save: ", report_dir)
+
+            os.makedirs(report_dir, exist_ok=True)
+            filenames = ["BCDKT.csv", "KQKT.csv", "LCTT_TT1.csv", "LCTT_TT2.csv"]
+            
+            for df, filename in zip(tables, filenames):
+                file_path = os.path.join(report_dir, filename)
+                if not os.path.exists(file_path):
+                    df.to_csv(file_path, index=False)
+
+        except OSError as e:
+            # Xử lý lỗi liên quan đến đường dẫn quá dài hoặc các lỗi khác
+            if isinstance(e, OSError) and "filename or extension is too long" in str(e).lower():
+                print("[Error] Path too long. Resetting directory name to 'NO_NAME'.")
+                safe_title = "NO_NAME"
+                base_report_dir = f"{self.config['output_dir']}/{self.symbol}/{safe_title}_{safe_date}"
+                if (len(base_report_dir) > 50):
+                    base_report_dir = f"{self.config['output_dir']}/{self.symbol}/{safe_title}"
+                report_dir = base_report_dir
+
+                # Lặp lại logic lưu báo cáo với thư mục mới
+                counter = 1
+                while os.path.exists(report_dir):
+                    report_dir = f"{base_report_dir}__{counter}"
+                    counter += 1
+
+                print("Retrying with report dir: ", report_dir)
+                os.makedirs(report_dir, exist_ok=True)
+                
+                for df, filename in zip(tables, filenames):
+                    file_path = os.path.join(report_dir, filename)
+                    if not os.path.exists(file_path):
+                        df.to_csv(file_path, index=False)        
+            else:
+                raise e
+
         return report_dir
 
     def save_checkpoint(self, checkpoint):
@@ -144,17 +190,34 @@ class FinanceCrawler:
 
     def crawl(self):
         self.search()
-        total_reports_text = self.page.locator(self.config["elements"]["total_reports"]).inner_text()
-        numbers = re.findall(r'\d+', total_reports_text)
-        number_reports = int(numbers[2])
-        number_pages = int(number_reports) // int(numbers[1]) + 1
+
+        retry_count = 0
+        number_reports = 0
+        number_pages = 1
+
+        while retry_count < 2:
+            try:
+                total_reports_text = self.page.locator(self.config["elements"]["total_reports"]).inner_text()
+                numbers = re.findall(r'\d+', total_reports_text)
+                number_reports = int(numbers[2])
+                number_pages = number_reports // int(numbers[1])
+                if number_reports % int(numbers[1]) != 0:
+                    number_pages += 1
+                multi_pages = True
+                break
+            except Exception as e:
+                print(f"Retrying to locate total reports text... Attempt {retry_count + 1}")
+                retry_count += 1
+                time.sleep(1)
+                multi_pages=False
 
         columns = ["STT", "Tên báo cáo", "Đơn vị", "Trích yếu", "Thời gian gửi", "Mã doanh nghiệp", "Tên công ty", "Tiêu đề", "Saving_path"]
         data = {col: [] for col in columns}
 
         current_page = self.checkpoint["current_page"]
         last_row_index = self.checkpoint["last_row_index"]
-        self.go_to_page(current_page)
+        if multi_pages:
+            self.go_to_page(current_page)
 
         while current_page <= number_pages:
             try:
@@ -179,6 +242,9 @@ class FinanceCrawler:
 
                         list_df = self.extract_report_details(row_data)
 
+                        if not multi_pages:
+                            number_reports+=1
+
                         # for col, val in zip(columns, row_data):
                         #     data[col].append(val)
 
@@ -190,7 +256,8 @@ class FinanceCrawler:
                         time.sleep(self.sleep)
                         self.page.go_back()
                         time.sleep(self.sleep)
-                        self.go_to_page(current_page)
+                        if multi_pages:
+                            self.go_to_page(current_page)
                         time.sleep(self.sleep)
 
                         # Lưu checkpoint sau mỗi hàng
@@ -199,8 +266,8 @@ class FinanceCrawler:
 
                         for col, val in zip(columns, row_data):
                             data[col].append(val)
-
-                    self.checkpoint["last_row_index"] = row_index + 1
+                    else:
+                        self.checkpoint["last_row_index"] = row_index + 1
                 # Cập nhật checkpoint khi chuyển trang
                 current_page += 1
                 self.checkpoint["current_page"] = current_page

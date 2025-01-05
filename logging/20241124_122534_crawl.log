@@ -1,0 +1,10 @@
+2024-11-24 12:50:32,543 - WARNING - Not enough reports LHG: 50/71
+2024-11-24 12:55:52,149 - INFO - Scraping Successfully LCM: 64/64
+2024-11-24 13:06:03,556 - INFO - Scraping Successfully LBM: 81/81
+2024-11-24 13:06:42,452 - INFO - Scraping Successfully LGC: 82/82
+2024-11-24 13:06:46,059 - INFO - Scraping Successfully LEC: 82/82
+2024-11-24 13:06:53,385 - INFO - Scraping Successfully LHC: 82/82
+2024-11-24 13:08:02,950 - INFO - Scraping Successfully LGL: 84/84
+2024-11-24 13:08:46,266 - INFO - Scraping Successfully LIC: 85/85
+2024-11-24 13:08:48,655 - INFO - Scraping Successfully LLM: 85/85
+2024-11-24 13:11:58,338 - WARNING - Not enough reports LIG: 90/75

@@ -1,0 +1,13 @@
+2024-11-22 11:48:26,600 - INFO - Scraping Successfully DSD: 20/20
+2024-11-22 11:58:35,567 - INFO - Scraping Successfully DRC: 42/42
+2024-11-22 11:59:02,536 - INFO - Scraping Successfully DRL: 43/43
+2024-11-22 11:59:11,370 - INFO - Scraping Successfully DSP: 43/43
+2024-11-22 11:59:11,371 - INFO - Scraping Successfully DP3: 43/43
+2024-11-22 12:09:30,626 - INFO - Scraping Successfully DS3: 62/62
+2024-11-22 12:13:34,121 - WARNING - Not enough reports DRG: 67/69
+2024-11-22 12:16:16,832 - INFO - Scraping Successfully DSN: 74/74
+2024-11-22 12:18:15,522 - INFO - Scraping Successfully DPR: 77/77
+2024-11-22 12:18:25,276 - WARNING - Not enough reports DSG: 63/72
+2024-11-22 12:20:12,275 - INFO - Scraping Successfully DRH: 80/80
+2024-11-22 12:22:01,004 - WARNING - Not enough reports DQC: 82/83
+2024-11-22 12:22:46,109 - INFO - Scraping Successfully DPG: 84/84

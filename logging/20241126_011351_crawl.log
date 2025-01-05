@@ -1,0 +1,11 @@
+2024-11-26 01:42:43,095 - WARNING - Not enough reports VNB: 60/45
+2024-11-26 01:43:30,300 - INFO - Scraping Successfully VMS: 61/61
+2024-11-26 01:44:41,523 - INFO - Scraping Successfully VNL: 63/63
+2024-11-26 01:46:28,463 - INFO - Scraping Successfully VOC: 66/66
+2024-11-26 01:52:03,934 - WARNING - Not enough reports VPD: 75/60
+2024-11-26 01:56:01,836 - INFO - Scraping Successfully VRE: 81/81
+2024-11-26 01:56:27,381 - INFO - Scraping Successfully VNG: 82/82
+2024-11-26 01:57:21,234 - INFO - Scraping Successfully VNS: 83/83
+2024-11-26 01:57:24,933 - INFO - Scraping Successfully VNF: 83/83
+2024-11-26 01:58:42,473 - INFO - Scraping Successfully VMD: 85/85
+2024-11-26 01:58:44,815 - INFO - Scraping Successfully VMC: 85/85

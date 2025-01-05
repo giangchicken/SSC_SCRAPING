@@ -1,0 +1,4 @@
+2024-11-27 00:54:51,501 - WARNING - Not enough reports HGW: 0/77
+2024-11-27 00:54:56,894 - INFO - Scraping Successfully TVM: 12/12
+2024-11-27 01:03:38,145 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-781' coro=<Locator.all_inner_texts() done, defined at D:\DATN\.venv\lib\site-packages\playwright\_impl\_locator.py:651> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at D:\DATN\.venv\lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at D:\DATN\.venv\lib\site-packages\playwright\_impl\_connection.py:195]>

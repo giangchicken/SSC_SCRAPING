@@ -1,0 +1,51 @@
+Chỉ tiêu,Mã số,Thuyết minh,Lũy kế từ đầu năm đến cuối kỳ này Năm nay,Lũy kế từ đầu năm đến cuối kỳ này Năm trước
+Lưu chuyển tiền từ hoạt động kinh doanh,,,,
+1. Thu nhập lãi và các khoản thu nhập tương tự nhận được,01,,"2,699,101,888,924","2,133,329,656,440"
+2. Chi phí lãi và các chi phí tương tự đã trả,02,,"1,673,838,436,973","1,295,730,637,538"
+3. Thu nhập từ hoạt động dịch vụ nhận được,03,,"78,607,477,892","52,475,743,056"
+"4. Chênh lệch số tiền thực thu/thực chi từ hoạt động kinh doanh(ngoại tệ,vàng bạc,chứng khoán)",04,,"259,991,218,628","76,461,144,449"
+5. Thu nhập khác,05,,"1,007,583,289","38,230,468,445"
+"6. Tiền thu các khoản nợ đã được xử lý xóa, bù đắp bằng nguồn rủi ro",06,,"2,190,078,358","4,123,324,281"
+"7. Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ(*)",07,,"767,949,759,846","416,139,134,332"
+8. Tiền thuế thu nhập thực nộp trong kỳ(*),08,,"21,757,291,358","1,733,546,000"
+B. Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và vốn lưu động,09,,"577,352,758,914","591,017,018,801"
+Những thay đổi về tài sản hoạt động,,,,
+9. (Tăng)/Giảm các khoản tiền gửi và cho vay các TCTD khác,10,,"515,189,900,000,134","2,578,998,246,010"
+10. (Tăng)/Giảm các khoản về kinh doanh chứng khoán,11,,"633,518,260,653","2,318,557,720,849"
+11. (Tăng)/Giảm các công cụ tài chính phái sinh và các tài sản tài chính khác,12,,"1,789,448,601","1,631,255,030"
+12. (Tăng)/Giảm các khoản cho vay khách hàng,13,,"5,054,232,572,611","5,110,419,594,748"
+13. Giảm nguồn dự phòng để bù đắp tổn thất các khoản,14,,"23,333,333,332","287,660,546,476"
+14. (Tăng)/Giảm khác về tài sản hoạt động,15,,"1,467,755,066,537,984","259,161,403,443"
+Những thay đổi về công nợ hoạt động,,,,
+15. Tăng/(Giảm) các khoản nợ chính phủ và NHNN,16,,"1,153,084,487,945","799,794,737,860"
+"16. Tăng/(Giảm) các khoản tiền gửi, tiền vay các tổ chức tín dụng",17,,"362,274,380,763","2,993,863,230,431"
+17. Tăng/(Giảm) tiền gửi của khách hàng(bao gồm cả kho bạc nhà nước),18,,"2,029,314,924,423","3,762,551,607,764"
+18. Tăng(/Giảm) phát hành giấy tờ có giá(ngoại trừ giấy tờ có giá phát hành được tính vào hoạt động tài chính),19,,"1,523,810,000,000",0
+"19. Tăng/(Giảm) vốn tài trợ, ủy thác đầu tư, cho vay TCTD chịu rủi ro",20,,"8,484,878,000","1,027,650,441"
+20. Tăng/(Giảm) các công cụ tài chính phái sinh và các khoản nợ tài chính khác,21,,0,0
+21. Tăng/(Giảm) khác về công nợ hoạt động,22,,"351,917,132,037,016","99,613,640,245"
+22. Chi từ các quỹ của TCTD(*),23,,"1,724,644,371",0
+I. Lưu chuyển tiền thuần từ hoạt động kinh doanh,24,,"460,512,539,316,334","3,386,565,039,788"
+Lưu chuyển tiền từ hoạt động đầu tư,,,,
+1. Mua sắm tài sản cố định(*),25,,"22,877,441,311","539,440,935"
+"2. Tiền thu từ thanh lý, nhượng bán TSCĐ",26,,"10,318,182",0
+"3. Tiền chi từ thanh lý, nhượng bán TSCĐ(*)",27,,0,0
+4. Mua sắm bất động sản đầu tư(*),28,,0,0
+"5. Tiền thu từ bán, thanh lý bất động sản đầu tư",29,,"1,563,636,364",0
+"6. Tiền chi ra do bán, thanh lý bất động sản đầu tư(*)",30,,0,0
+"7. Tiền chi đầu tư, góp vốn vào các đơn vị khác(Chi đầu tư mua công ty con, góp vốn liên doanh, liên kết, và các khoản đầu tư dài hạn khác)(*)",31,,0,0
+"8. Tiền thu đầu tư, góp vốn vào các đơn vị khác(Thu bán, thanh lý công ty con, góp vốn liên doanh, liên kết, các khoản đầu tư dài hạn khác)",32,,0,0
+"9. Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn",33,,"1,413,100,000","1,833,410,305"
+II. Lưu chuyển tiền thuần từ hoạt động đầu tư,34,,"19,890,386,765","1,293,969,370"
+Lưu chuyển tiền từ hoạt động tài chính,,,,
+1. Tăng vốn cổ phần từ góp vốn và/hoặc phát hành cổ phiếu,35,,0,0
+2. Tiền thu từ phát hành giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác,36,,0,0
+3. Tiền chi thanh toán giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác(*),37,,0,0
+"4. Cổ tức trả cho cổ đông, lợi nhuận đã chia(*)",38,,"202,140,859,020","186,377,891,700"
+5. Tiền chi ra mua cổ phiếu ngân quỹ(*),39,,0,0
+6. Tiền thu được do bán cổ phiếu ngân quỹ,40,,0,0
+III.Lưu chuyển tiền thuần từ hoạt động tài chính,41,,"202,140,859,020","186,377,891,700"
+IV.Lưu chuyển tiền thuần trong kỳ,42,,"438,309,414,737,834","3,571,648,962,118"
+V. Tiền và các khoản tương đương tiền tại thời điểm đầu kỳ,43,,"630,109,683,793,466","15,040,723,998,991"
+VI. Điều chỉnh ảnh hưởng của thay đổi tỷ giá,44,,0,0
+VII. Tiền và các khoản tương đương tiền tại thời điểm cuối kỳ,45,,"10,684,190,985,313","11,469,075,036,873"

@@ -1,0 +1,58 @@
+Chỉ tiêu,Mã số,Thuyết minh,Lũy kế từ đầu năm đến cuối kỳ này Năm nay,Lũy kế từ đầu năm đến cuối kỳ này Năm trước
+Lưu chuyển tiền từ hoạt động kinh doanh,00,,0,0
+Lợi nhuận trước thuế,01,,0,0
+Điều chỉnh các khoản:,,,,
+"Khấu hao TSCĐ, bất động sản đầu tư",02,,0,0
+"Dự phòng rủi ro tín dụng, giảm giá, đầu tư tăng thêm/(hoàn nhập) trong năm",03,,0,0
+Lãi và phí phải thu trong kỳ (thực tế chưa thu)(*),04,,0,0
+Lãi và phí phải trả trong kỳ (thực tế chưa trả),05,,0,0
+(Lãi)/ lỗ do thanh lý tài sản cố định,06,,0,0
+"(Lãi)/ lỗ do bán, thanh lý bất động sản đầu tư",07,,0,0
+"(Lãi)/ lỗ do thanh lý những khoản đầu tư, góp vốn dài hạn vào đơn vị khác, lãi, cổ tức nhận được, lợi nhuận được chia từ HĐ đầu tư, góp vốn dài hạn",08,,0,0
+Chênh lệch tỷ giá hối đoái chưa thực hiện,09,,0,0
+Các điều chỉnh khác,10,,0,0
+Những thay đổi về tài sản và công nợ hoạt động,,,,
+Những thay đổi về tài sản hoạt động,,,,
+(Tăng)/ Giảm các khoản tiền gửi và cho vay các tổ chức tín dụng khác,11,,0,0
+(Tăng)/ Giảm các khoản về kinh doanh chứng khoán,12,,0,0
+(Tăng)/ Giảm các công cụ tài chính phái sinh và các tài sản tài chính khác,13,,0,0
+(Tăng)/ Giảm các khoản cho vay khách hàng,14,,0,0
+"(Tăng)/ Giảm lãi, phí phải thu",15,,0,0
+(Giảm)/ Tăng nguồn dự phòng để bù đắp tổn thất các khoản,16,,0,0
+(Tăng)/ Giảm khác về tài sản hoạt động,17,,0,0
+Những thay đổi về công nợ hoạt động,,,,
+Tăng/ (Giảm) các khoản nợ chính phủ và NHNN,18,,0,0
+Tăng/ (Giảm) các khoản tiền gửi và vay các TCTD,19,,0,0
+Tăng/ (Giảm) tiền gửi của khách hàng (bao gồm cả Kho bạc Nhà nước),20,,0,0
+Tăng/ (Giảm) các công cụ tài chính phái sinh và các khoản nợ tài chính khác,21,,0,0
+"Tăng/ (Giảm) vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD phải chịu rủi ro",22,,0,0
+Tăng/ (Giảm) phát hành giấy tờ có giá (ngoại trừ GTCG được tính vào hoạt động tài chính),23,,0,0
+"Tăng/ (Giảm) lãi, phí phải trả",24,,0,0
+Tăng/ (Giảm) khác về công nợ hoạt động,25,,0,0
+Lưu chuyển tiền thuần từ hoạt động kinh doanh trước thuế thu nhập,26,,0,0
+Thuế TNDN đã nộp (*),27,,0,0
+Chi từ các quỹ của TCTD (*),28,,0,0
+I. Lưu chuyển tiền thuần từ hoạt động kinh doanh,29,,0,0
+Lưu chuyển tiền từ hoạt động đầu tư,,,,
+Mua sắm TSCĐ (*),30,,0,0
+"Tiền thu từ thanh lý, nhượng bán tài sản cố định",31,,0,0
+"Tiền chi từ thanh lý, nhượng bán TSCĐ (*)",32,,0,0
+Mua sắm bất động sản đầu tư (*),33,,0,0
+"Tiền thu từ bán, thanh lý bất động sản đầu tư",34,,0,0
+"Tiền chi ra do bán, thanh lý bất động sản đầu tư (*)",35,,0,0
+"Tiền chi đầu tư, góp vốn vào các đơn vị khác (Chi đầu tư mua công ty con, góp vốn liên doanh, liên kết, và các khoản đầu tư dài hạn khác)(*)",36,,0,0
+"Tiền thu đầu tư, góp vốn vào các đơn vị khác (Thu bán, thanh lý công ty con, góp vốn liên doanh, liên kết, các khoản đầu tư dài hạn khác)",37,,0,0
+"Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn",38,,0,0
+II. Lưu chuyển tiền từ hoạt động đầu tư,39,,0,0
+Lưu chuyển tiền từ hoạt động tài chính,,,,
+Tăng vốn cổ phần từ góp vốn và/ hoặc phát hành cổ phiếu,40,,0,0
+Tiền thu từ phát hành giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác,41,,0,0
+Tiền chi thanh toán giấy tờ có giá dài hạn đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác (*),42,,0,0
+"Cổ tức trả cho cổ đông, lợi nhuận đã chia (*)",43,,0,0
+Tiền chi ra mua cổ phiếu quỹ (*),44,,0,0
+Tiền thu được do bán cổ phiếu quỹ,45,,0,0
+III. Lưu chuyển tiền từ hoạt động tài chính,46,,0,0
+IV. Lưu chuyển tiền thuần trong kỳ,47,,0,0
+V. Tiền và các khoản tương đương tiền tại thời điểm đầu kỳ,48,,0,0
+VI. Điều chỉnh ảnh hưởng của thay đổi tỷ giá,49,,0,0
+VII. Tiền và các khoản tương đương tiền tại thởi điểm cuối kỳ,50,,0,0

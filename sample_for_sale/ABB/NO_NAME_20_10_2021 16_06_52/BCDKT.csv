@@ -1,0 +1,86 @@
+Chỉ tiêu,Mã số,Thuyết minh,Số cuối kỳ,Số đầu kỳ
+A.TÀI SẢN,,,,
+"I.Tiền mặt, vàng bạc, đá quý",110,,"561,657","579,345"
+II.Tiền gửi tại Ngân hàng Nhà nước,120,,"3,959,896","996,258"
+III. Tiền gửi và cho vay các tổ chức tín dụng khác,130,,"20,867,003","28,459,280"
+1.Tiền gửi tại các tổ chức tín dụng khác,131,,"15,968,621","24,886,890"
+2.Cho vay các tổ chức tín dụng khác,132,,"4,898,382","3,572,390"
+3.Dự phòng rủi ro cho vay các tổ chức tín dụng khác,139,,0,0
+IV.Chứng khoán kinh doanh,140,,"1,561,128","2,001,253"
+1.Chứng khoán kinh doanh,141,,"1,561,128","2,001,459"
+2.Dự phòng giảm giá chứng khoán kinh doanh,149,,0,-206
+V.Các công cụ tài chính phái sinh và các tài sản tài chính khác,150,,"196,853",0
+VI.Cho vay khách hàng,160,,"65,781,404","62,588,033"
+1.Cho vay khách hàng,161,,"66,664,887","63,293,151"
+2.Dự phòng rủi ro cho vay khách hàng,169,,"-883,483","-705,118"
+VII. Hoạt động mua nợ,180,,"152,085","152,085"
+1. Mua nợ,181,,"153,234","153,234"
+2. Dự phòng rủi ro hoạt động mua nợ,189,,"-1,149","-1,149"
+VIII.Chứng khoán đầu tư,170,,"16,290,228","16,685,823"
+1.Chứng khoán đầu tư sẵn sàng để bán,171,,"14,245,968","15,012,610"
+2.Chứng khoán đầu tư giữ đến ngày đáo hạn,172,,"2,575,516","1,970,387"
+3.Dự phòng giảm giá chứng khoán đầu tư,179,,"-531,256","-297,174"
+IX.Góp vốn đầu tư dài hạn,210,,"154,219","166,324"
+1.Đầu tư vào công ty con,211,,0,0
+2.Vốn góp liên doanh,212,,0,0
+3.Đầu tư vào công ty liên kết,213,,0,0
+4.Đầu tư dài hạn khác,214,,"170,075","182,978"
+5.Dự phòng giảm giá đầu tư dài hạn,219,,"-15,856","-16,654"
+X.Tài sản cố định,220,,"922,390","955,727"
+1.Tài sản cố định hữu hình,221,,"562,478","578,998"
+a.Nguyên giá tài sản cố định,222,,"1,162,366","1,140,762"
+b.Hao mòn tài sản cố định,223,,"-599,888","-561,764"
+2.Tài sản cố định thuê tài chính,224,,0,0
+a.Nguyên giá tài sản cố định,225,,0,0
+b.Hao mòn tài sản cố định,226,,0,0
+3.Tài sản cố định vô hình,227,,"359,912","376,729"
+a.Nguyên giá tài sản cố định,228,,"629,956","624,943"
+b.Hao mòn tài sản cố định,229,,"-270,044","-248,214"
+XI. Bất động sản đầu tư,240,,"69,045","69,980"
+a.Nguyên giá bất động sản đầu tư,241,,"74,029","74,030"
+b.Hao mòn bất động sản đầu tư,242,,"-4,984","-4,050"
+XII.Tài sản có khác,250,,"3,359,933","3,712,873"
+1.Các khoản phải thu,251,,"1,294,205","1,747,900"
+2.Các khoản lãi và chi phí phải thu,252,,"1,004,626","776,959"
+3.Tài sản thuế TNDN hoãn lại,253,,0,0
+4.Tài sản có khác,254,,"1,265,542","1,392,708"
+- Trong đó lợi thế thương mại,255,,0,0
+5. Các khoản dự phòng rủi ro cho các tài sản Có nội bảng khác,259,,"-204,440","-204,694"
+TỔNG TÀI SẢN CÓ,300,,"113,875,841","116,366,981"
+B.NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,,,,
+I.Các khoản nợ chính phủ và Ngân hàng Nhà nước,310,,0,0
+II.Tiền gửi và vay các tổ chức tín dụng khác,320,,"25,832,180","26,502,701"
+1.Tiền gửi của các tổ chức tín dụng khác,321,,"23,217,590","22,904,484"
+2.Vay các tổ chức tín dụng khác,322,,"2,614,590","3,598,217"
+III.Tiền gửi của khách hàng,330,,"67,053,917","72,508,223"
+IV.Các công cụ tài chính phái sinh và các khoản nợ tài chính khác,340,,0,"74,781"
+"V. Vốn tài trợ, ủy thác đầu tư, cho vay tổ chức tín dụng chịu rủi ro",350,,"723,179","937,752"
+VI.Phát hành giấy tờ có giá,360,,"7,905,930","5,605,930"
+VII.Các khoản nợ khác,370,,"2,376,224","1,826,245"
+"1.Các khoản lãi, phí phải trả",371,,"1,385,902","1,394,142"
+2.Thuế thu nhập doanh nghiệp hoãn lại phải trả,372,,0,0
+3.Các khoản phải trả và công nợ khác,373,,"990,322","432,103"
+4.Dự phòng rủi ro khác (công nợ tiềm ẩn và các cam kết ngoại bảng),379,,0,0
+TỔNG NỢ PHẢI TRẢ,400,,"103,891,430","107,455,632"
+VIII.Vốn chủ sở hữu,500,,"9,984,411","8,911,349"
+1.Vốn của tổ chức tín dụng,410,,"5,714,108","5,714,108"
+a.Vốn điều lệ,411,,"5,713,114","5,713,114"
+b.Vốn đầu tư XDCB,412,,994,994
+c.Thặng dư vốn cổ phần,413,,0,0
+d.Cổ phiếu quỹ,414,,0,0
+e.Cổ phiếu ưu đãi,415,,0,0
+g.Vốn khác,416,,0,0
+2.Quỹ của Tổ chức tín dụng,420,,"811,571","811,219"
+3.Chênh lệch tỷ giá hối đoái,430,,"-173,213",0
+4.Chênh lệch đánh giá lại tài sản,440,,0,0
+5.Lợi nhuận để lại chưa phân phối/Lỗ lũy kế,450,,"3,631,945","2,386,022"
+IX.Lợi ích của cổ đông thiểu số,700,,0,0
+TỔNG NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU,800,,"113,875,841","116,366,981"
+CÁC CHỈ TIÊU NGOÀI BẢNG,,,,
+I.Nghĩa vụ nợ tiềm ẩn,910,,"4,535,072","5,270,898"
+1.Bảo lãnh vay vốn,911,,0,0
+2.Cam kết trong nghiệp vụ L/C,912,,"451,683","745,452"
+3.Bảo lãnh khác,913,,"4,083,389","4,525,446"
+II.Các cam kết đưa ra,920,,"1,856,702","2,464,767"
+1.Cam kết tài trợ cho khách hàng,921,,0,0
+2.Cam kết khác,922,,"1,856,702","2,464,767"

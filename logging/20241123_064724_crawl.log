@@ -1,0 +1,11 @@
+2024-11-23 06:57:00,907 - INFO - Scraping Successfully NAS: 17/17
+2024-11-23 07:05:32,365 - INFO - Scraping Successfully NAV: 32/32
+2024-11-23 07:06:44,408 - INFO - Scraping Successfully NAW: 34/34
+2024-11-23 07:10:45,002 - INFO - Scraping Successfully NBT: 40/40
+2024-11-23 07:11:47,135 - INFO - Scraping Successfully NAP: 42/42
+2024-11-23 07:12:42,235 - INFO - Scraping Successfully NBC: 43/43
+2024-11-23 07:13:23,033 - INFO - Scraping Successfully NBW: 44/44
+2024-11-23 07:14:38,356 - INFO - Scraping Successfully NBP: 46/46
+2024-11-23 07:15:26,816 - WARNING - Not enough reports MVN: 46/48
+2024-11-23 07:20:22,793 - WARNING - Not enough reports MVC: 52/54
+2024-11-23 07:40:28,956 - INFO - Scraping Successfully NBB: 82/82
