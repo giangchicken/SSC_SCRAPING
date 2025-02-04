@@ -1,0 +1,16 @@
+2025-01-24 00:32:06,297 - INFO - Scraping Successfully BMS: 0/0
+2025-01-24 00:35:41,573 - INFO - Scraping Successfully BRS: 9/9
+2025-01-24 00:35:42,033 - INFO - Scraping Successfully BMN: 9/9
+2025-01-24 00:40:02,955 - INFO - Scraping Successfully BMJ: 22/22
+2025-01-24 00:43:57,947 - INFO - Scraping Successfully BQB: 31/31
+2025-01-24 00:45:55,337 - INFO - Scraping Successfully BMV: 35/35
+2025-01-24 00:46:32,748 - WARNING - Not enough reports BOT: 36/35
+2025-01-24 00:48:55,887 - INFO - Scraping Successfully BSH: 41/41
+2025-01-24 00:49:18,145 - INFO - Scraping Successfully BRC: 42/42
+2025-01-24 00:49:48,657 - INFO - Scraping Successfully BRR: 43/43
+2025-01-24 00:50:20,838 - INFO - Scraping Successfully BPC: 44/44
+2025-01-24 00:53:04,350 - WARNING - Not enough reports BNW: 50/43
+2025-01-24 00:54:52,419 - WARNING - Not enough reports BSA: 54/45
+2025-01-24 00:56:14,542 - INFO - Scraping Successfully BNA: 55/55
+2025-01-24 00:59:52,276 - WARNING - Not enough reports BSC: 62/54
+2025-01-24 01:02:26,723 - INFO - Scraping Successfully BMP: 66/66

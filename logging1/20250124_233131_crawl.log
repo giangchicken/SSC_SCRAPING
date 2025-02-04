@@ -1,0 +1,18 @@
+2025-01-24 23:32:48,150 - INFO - Scraping Successfully IVS: 0/0
+2025-01-24 23:35:24,524 - INFO - Scraping Successfully KCB: 7/7
+2025-01-24 23:35:30,686 - INFO - Scraping Successfully KCE: 7/7
+2025-01-24 23:35:50,874 - INFO - Scraping Successfully KHL: 8/8
+2025-01-24 23:36:16,001 - INFO - Scraping Successfully KAC: 9/9
+2025-01-24 23:37:52,566 - INFO - Scraping Successfully KHD: 13/13
+2025-01-24 23:47:25,603 - INFO - Scraping Successfully KDM: 36/36
+2025-01-24 23:50:32,470 - INFO - Scraping Successfully JOS: 42/42
+2025-01-24 23:50:35,709 - INFO - Scraping Successfully ITQ: 42/42
+2025-01-24 23:51:01,304 - INFO - Scraping Successfully KHP: 43/43
+2025-01-24 23:51:31,537 - INFO - Scraping Successfully KHW: 44/44
+2025-01-24 23:52:25,910 - INFO - Scraping Successfully KHG: 46/46
+2025-01-24 23:59:14,673 - WARNING - Not enough reports KGM: 59/54
+2025-01-25 00:12:30,156 - INFO - Scraping Successfully KBC: 80/80
+2025-01-25 00:14:21,159 - INFO - Scraping Successfully ITD: 83/83
+2025-01-25 00:15:06,778 - INFO - Scraping Successfully KHS: 84/84
+2025-01-25 00:17:19,403 - WARNING - Not enough reports KDC: 90/84
+2025-01-25 00:18:56,735 - INFO - Scraping Successfully JVC: 90/90

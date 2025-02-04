@@ -23,7 +23,7 @@
         "row_class": "x221",
         "page": "#pt9\\:t1\\:\\:nb_pg"                                
     },
-    "output_dir" : "./crawl_table",
-    "logging_dir": "E:/PUBLIC_DATA_PROJECT/Optimizing_scraping/logging",
+    "output_dir" : "E:/PUBLIC_DATA_PROJECT/SCRAPING_CODE/Optimizing_scraping/crawl_table1",
+    "logging_dir": "E:/PUBLIC_DATA_PROJECT/SCRAPING_CODE/Optimizing_scraping/logging1",
     "max_retries": 10
 }

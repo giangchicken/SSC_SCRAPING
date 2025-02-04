@@ -14,7 +14,7 @@ class FinanceCrawler:
         self.config = config
         self.symbol = symbol
         # self.output_queue = output_queue
-        self.checkpoint_file = f"./checkpoints/checkpoint_{self.symbol}.json"
+        self.checkpoint_file = f"./checkpoints1/checkpoint_{self.symbol}.json"
         self.browser = None
         self.page = None
         self.retry_attempts = 0
@@ -25,8 +25,12 @@ class FinanceCrawler:
         self._setup_logging()
 
     def setup_browser(self, playwright):
-        self.browser = playwright.chromium.launch(headless=True)
-        self.page = self.browser.new_page()
+        self.browser = playwright.chromium.launch(headless=False)
+        self.context = self.browser.new_context(
+            accept_downloads=True,
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.110 Safari/537.36"
+        )
+        self.page = self.context.new_page()
         self.page.goto(self.config['url'])
         self.page.wait_for_selector(self.config["elements"]["search_box"])
 
@@ -77,10 +81,14 @@ class FinanceCrawler:
         row_data.append(self.page.locator(self.config["elements"]["company_code_id"]).locator(self.config["elements"]["company_code_CLS"]).inner_text())
         row_data.append(self.page.locator(self.config["elements"]["company_name_id"]).locator(self.config["elements"]["company_name_CLS"]).inner_text())
         row_data.append(self.page.locator(self.config["elements"]["title_id"]).locator(self.config["elements"]["title_CLS"]).inner_text())
+
+        self.page.mouse.wheel(0, 15000)
         
         # Duyệt qua từng bảng tài chính và lưu ngay sau khi thu thập
         list_df = []
         for table_id in self.config["elements"]["financial_tables"]:
+            # print(table_id)
+            self.page.locator(table_id).click(force=True)
             self.page.locator(table_id).click(force=True)
             time.sleep(self.sleep)
             df_sub = self.get_table()
@@ -104,12 +112,13 @@ class FinanceCrawler:
             # Nếu backup không hợp lệ, đặt tên là NO_NAME
 
         base_report_dir = f"{self.config['output_dir']}/{self.symbol}/{safe_title}_{safe_date}"
-        if (len(base_report_dir) > 50) or (len(backup) < 2) or (backup is None):
+        if (len(base_report_dir) > 20) or (len(backup) < 2) or (backup is None):
             # print(safe_title + ": is too long")
             safe_title = "NO_NAME"
 
-        # Tạo thư mục để lưu các báo cáo tài chính
-        base_report_dir = f"{self.config['output_dir']}/{self.symbol}/{safe_title}_{safe_date}"
+            # Tạo thư mục để lưu các báo cáo tài chính
+            base_report_dir = f"{self.config['output_dir']}/{self.symbol}/{safe_title}"
+
         report_dir = base_report_dir
 
         try:
@@ -125,7 +134,7 @@ class FinanceCrawler:
             print("report dir save: ", report_dir)
 
             os.makedirs(report_dir, exist_ok=True)
-            filenames = ["BCDKT.csv", "KQKT.csv", "LCTT_TT1.csv", "LCTT_TT2.csv"]
+            filenames = ["BCDKT.csv", "KQKD.csv", "LCTT_TT.csv", "LCTT_GT.csv"]
             
             for df, filename in zip(tables, filenames):
                 file_path = os.path.join(report_dir, filename)

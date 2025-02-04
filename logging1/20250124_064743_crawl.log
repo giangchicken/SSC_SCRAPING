@@ -1,0 +1,10 @@
+2025-01-24 06:48:53,445 - INFO - Scraping Successfully CTS: 0/0
+2025-01-24 06:48:53,624 - INFO - Scraping Successfully CSI: 0/0
+2025-01-24 06:48:58,949 - INFO - Scraping Successfully CTN: 0/0
+2025-01-24 06:54:41,481 - INFO - Scraping Successfully CT3: 15/15
+2025-01-24 07:07:33,895 - INFO - Scraping Successfully CTB: 45/45
+2025-01-24 07:07:34,085 - INFO - Scraping Successfully CSM: 45/45
+2025-01-24 07:09:09,363 - WARNING - Not enough reports CST: 50/41
+2025-01-24 07:24:31,780 - INFO - Scraping Successfully CRE: 75/75
+2025-01-24 07:26:29,091 - INFO - Scraping Successfully CTI: 78/78
+2025-01-24 07:29:37,181 - INFO - Scraping Successfully CSV: 83/83

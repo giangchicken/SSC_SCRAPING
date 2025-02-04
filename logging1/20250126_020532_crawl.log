@@ -1,0 +1,10 @@
+2025-01-26 02:09:26,750 - INFO - Scraping Successfully SRB: 7/7
+2025-01-26 02:09:28,849 - INFO - Scraping Successfully SSG: 7/7
+2025-01-26 02:11:13,913 - WARNING - Not enough reports STB: 18/11344
+2025-01-26 02:11:14,096 - WARNING - Not enough reports SPM: 0/11344
+2025-01-26 02:22:53,844 - INFO - Scraping Successfully SSM: 40/40
+2025-01-26 02:23:53,287 - INFO - Scraping Successfully SSC: 42/42
+2025-01-26 02:23:53,938 - INFO - Scraping Successfully SSH: 42/42
+2025-01-26 02:37:41,118 - INFO - Scraping Successfully SRT: 67/67
+2025-01-26 02:46:08,113 - INFO - Scraping Successfully SRF: 81/81
+2025-01-26 02:50:39,289 - INFO - Scraping Successfully STG: 88/88

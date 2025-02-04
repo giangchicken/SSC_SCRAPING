@@ -1,0 +1,16 @@
+2025-01-25 18:36:37,746 - INFO - Scraping Successfully PX1: 0/0
+2025-01-25 18:37:23,313 - INFO - Scraping Successfully QNT: 2/2
+2025-01-25 18:37:24,262 - INFO - Scraping Successfully PWA: 2/2
+2025-01-25 18:38:10,361 - INFO - Scraping Successfully PXM: 4/4
+2025-01-25 18:39:20,110 - INFO - Scraping Successfully QHW: 7/7
+2025-01-25 18:39:20,250 - INFO - Scraping Successfully QCC: 7/7
+2025-01-25 18:42:15,460 - INFO - Scraping Successfully PXC: 17/17
+2025-01-25 18:46:38,927 - WARNING - Not enough reports PXA: 28/18
+2025-01-25 18:53:49,493 - INFO - Scraping Successfully QHD: 42/42
+2025-01-25 18:54:19,189 - INFO - Scraping Successfully PXL: 43/43
+2025-01-25 18:56:18,718 - WARNING - Not enough reports PXS: 48/43
+2025-01-25 18:58:30,656 - WARNING - Not enough reports PXT: 54/42
+2025-01-25 19:06:55,670 - INFO - Scraping Successfully QBS: 66/66
+2025-01-25 19:16:44,186 - INFO - Scraping Successfully QNS: 82/82
+2025-01-25 19:17:21,323 - INFO - Scraping Successfully QCG: 83/83
+2025-01-25 19:20:16,739 - WARNING - Not enough reports QNC: 90/82

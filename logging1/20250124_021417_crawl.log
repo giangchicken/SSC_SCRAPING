@@ -1,0 +1,19 @@
+2025-01-24 02:15:28,367 - INFO - Scraping Successfully BVS: 0/0
+2025-01-24 02:16:45,189 - INFO - Scraping Successfully C12: 3/3
+2025-01-24 02:18:24,162 - INFO - Scraping Successfully BWA: 7/7
+2025-01-24 02:18:25,264 - INFO - Scraping Successfully C22: 7/7
+2025-01-24 02:19:14,209 - INFO - Scraping Successfully BVN: 9/9
+2025-01-24 02:27:16,621 - INFO - Scraping Successfully C92: 29/29
+2025-01-24 02:33:37,047 - INFO - Scraping Successfully CAG: 42/42
+2025-01-24 02:34:35,545 - INFO - Scraping Successfully CAD: 44/44
+2025-01-24 02:35:05,819 - WARNING - Not enough reports BXH: 45/44
+2025-01-24 02:35:37,513 - INFO - Scraping Successfully BVL: 46/46
+2025-01-24 02:48:39,302 - INFO - Scraping Successfully CAP: 69/69
+2025-01-24 02:51:25,459 - INFO - Scraping Successfully CAB: 74/74
+2025-01-24 02:52:02,340 - INFO - Scraping Successfully C32: 75/75
+2025-01-24 02:55:35,316 - INFO - Scraping Successfully C4G: 80/80
+2025-01-24 02:55:49,701 - INFO - Scraping Successfully C21: 81/81
+2025-01-24 02:56:34,404 - INFO - Scraping Successfully C69: 82/82
+2025-01-24 02:59:05,878 - INFO - Scraping Successfully CAN: 86/86
+2025-01-24 02:59:20,452 - INFO - Scraping Successfully BWE: 85/85
+2025-01-24 03:04:37,281 - WARNING - Not enough reports C47: 90/84

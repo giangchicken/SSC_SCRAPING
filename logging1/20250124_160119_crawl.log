@@ -1,0 +1,20 @@
+2025-01-24 16:02:36,228 - INFO - Scraping Successfully HAC: 0/0
+2025-01-24 16:02:36,228 - INFO - Scraping Successfully GTT: 0/0
+2025-01-24 16:05:15,303 - INFO - Scraping Successfully GTD: 7/7
+2025-01-24 16:05:18,476 - INFO - Scraping Successfully H11: 7/7
+2025-01-24 16:05:35,780 - INFO - Scraping Successfully GVT: 8/8
+2025-01-24 16:07:05,642 - WARNING - Not enough reports GTS: 0/121
+2025-01-24 16:07:59,979 - INFO - Scraping Successfully GND: 14/14
+2025-01-24 16:09:51,287 - INFO - Scraping Successfully GMH: 21/21
+2025-01-24 16:20:41,430 - INFO - Scraping Successfully GMX: 44/44
+2025-01-24 16:20:44,241 - INFO - Scraping Successfully GSP: 44/44
+2025-01-24 16:20:47,842 - INFO - Scraping Successfully GTA: 44/44
+2025-01-24 16:24:56,342 - WARNING - Not enough reports HAD: 55/42
+2025-01-24 16:27:19,019 - WARNING - Not enough reports GSM: 59/47
+2025-01-24 16:31:47,178 - INFO - Scraping Successfully HAI: 64/64
+2025-01-24 16:40:45,561 - WARNING - Not enough reports GVR: 81/76
+2025-01-24 16:43:20,559 - WARNING - Not enough reports GPC: 100/32
+2025-01-24 16:44:00,032 - INFO - Scraping Successfully HAF: 84/84
+2025-01-24 16:44:19,634 - WARNING - Not enough reports HAG: 86/82
+2025-01-24 16:47:32,649 - WARNING - Not enough reports HAH: 93/82
+2025-01-24 16:49:21,977 - INFO - Scraping Successfully GMD: 92/92

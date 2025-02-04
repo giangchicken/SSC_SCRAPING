@@ -1,0 +1,17 @@
+2025-01-25 02:23:20,784 - INFO - Scraping Successfully LKW: 7/7
+2025-01-25 02:24:28,123 - INFO - Scraping Successfully LGM: 9/9
+2025-01-25 02:46:42,770 - INFO - Scraping Successfully LCS: 46/46
+2025-01-25 02:47:13,690 - INFO - Scraping Successfully LIX: 47/47
+2025-01-25 02:48:40,787 - INFO - Scraping Successfully LDW: 49/49
+2025-01-25 02:52:34,195 - WARNING - Not enough reports LHG: 50/71
+2025-01-25 02:55:24,680 - INFO - Scraping Successfully LDP: 59/59
+2025-01-25 02:59:13,318 - INFO - Scraping Successfully LCM: 64/64
+2025-01-25 03:07:11,211 - INFO - Scraping Successfully LIG: 75/75
+2025-01-25 03:10:10,691 - INFO - Scraping Successfully LDG: 79/79
+2025-01-25 03:11:40,513 - INFO - Scraping Successfully LBM: 81/81
+2025-01-25 03:12:07,357 - INFO - Scraping Successfully LCG: 81/81
+2025-01-25 03:12:28,369 - INFO - Scraping Successfully LEC: 82/82
+2025-01-25 03:12:30,671 - INFO - Scraping Successfully LGC: 82/82
+2025-01-25 03:12:55,440 - WARNING - Not enough reports LIC: 75/85
+2025-01-25 03:13:17,949 - INFO - Scraping Successfully LHC: 82/82
+2025-01-25 03:14:01,802 - INFO - Scraping Successfully LGL: 84/84

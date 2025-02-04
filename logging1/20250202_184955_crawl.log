@@ -1,0 +1,8 @@
+2025-02-02 18:51:10,323 - INFO - Scraping Successfully EVS: 0/0
+2025-02-02 19:03:37,192 - WARNING - Not enough reports DNP: 15/83
+2025-02-02 19:15:39,248 - INFO - Scraping Successfully DXS: 45/45
+2025-02-02 19:37:11,985 - INFO - Scraping Successfully DLR: 73/73
+2025-02-02 19:37:13,389 - INFO - Scraping Successfully DSN: 74/74
+2025-02-02 19:44:35,154 - INFO - Scraping Successfully EID: 82/82
+2025-02-02 19:45:22,046 - INFO - Scraping Successfully DPG: 84/84
+2025-02-02 19:48:30,844 - WARNING - Not enough reports DTD: 85/73

@@ -1,0 +1,9 @@
+2025-01-26 02:53:32,165 - INFO - Scraping Successfully STL: 0/0
+2025-01-26 02:56:14,165 - INFO - Scraping Successfully STS: 7/7
+2025-01-26 02:59:34,922 - INFO - Scraping Successfully STT: 18/18
+2025-01-26 03:10:33,401 - INFO - Scraping Successfully SZL: 42/42
+2025-01-26 03:10:38,120 - INFO - Scraping Successfully STP: 42/42
+2025-01-26 03:11:07,050 - INFO - Scraping Successfully STW: 43/43
+2025-01-26 03:15:51,319 - INFO - Scraping Successfully SVC: 52/52
+2025-01-26 03:24:20,092 - WARNING - Not enough reports SZC: 68/65
+2025-01-26 03:39:57,714 - WARNING - Not enough reports STK: 95/85

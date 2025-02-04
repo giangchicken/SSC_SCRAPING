@@ -1,0 +1,8 @@
+2025-02-02 14:41:01,661 - INFO - Scraping Successfully ORS: 0/0
+2025-02-02 14:41:01,770 - INFO - Scraping Successfully NDF: 0/0
+2025-02-02 15:06:44,240 - INFO - Scraping Successfully NDP: 60/60
+2025-02-02 15:17:22,574 - WARNING - Not enough reports NVB: 73/78
+2025-02-02 15:23:11,886 - INFO - Scraping Successfully LIC: 85/85
+2025-02-02 15:25:17,287 - WARNING - Not enough reports PGC: 91/80
+2025-02-02 15:27:11,759 - WARNING - Not enough reports PDB: 92/84
+2025-02-02 15:27:28,855 - WARNING - Not enough reports MBB: 95/87

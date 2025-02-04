@@ -1,0 +1,14 @@
+2025-01-24 21:51:21,556 - INFO - Scraping Successfully IBD: 5/5
+2025-01-24 21:52:03,784 - INFO - Scraping Successfully ICI: 7/7
+2025-01-24 21:53:15,252 - INFO - Scraping Successfully ICN: 10/10
+2025-01-24 22:05:08,650 - INFO - Scraping Successfully IDP: 39/39
+2025-01-24 22:06:08,409 - INFO - Scraping Successfully HWS: 41/41
+2025-01-24 22:06:41,491 - INFO - Scraping Successfully HVT: 42/42
+2025-01-24 22:17:57,854 - INFO - Scraping Successfully IBC: 63/63
+2025-01-24 22:22:43,571 - INFO - Scraping Successfully ICT: 71/71
+2025-01-24 22:24:30,139 - INFO - Scraping Successfully IDC: 74/74
+2025-01-24 22:27:03,045 - INFO - Scraping Successfully HVN: 78/78
+2025-01-24 22:28:58,158 - INFO - Scraping Successfully HUT: 81/81
+2025-01-24 22:29:33,420 - INFO - Scraping Successfully IDI: 82/82
+2025-01-24 22:35:28,137 - INFO - Scraping Successfully IDJ: 91/91
+2025-01-24 22:43:53,281 - WARNING - Not enough reports ICG: 115/85

@@ -1,0 +1,10 @@
+2025-01-26 03:00:53,332 - INFO - Scraping Successfully SZG: 21/21
+2025-01-26 03:05:18,648 - INFO - Scraping Successfully STH: 31/31
+2025-01-26 03:06:42,943 - WARNING - Not enough reports SZB: 35/29
+2025-01-26 03:08:39,472 - WARNING - Not enough reports SVD: 40/30
+2025-01-26 03:10:35,897 - INFO - Scraping Successfully SVI: 42/42
+2025-01-26 03:10:39,421 - INFO - Scraping Successfully SZE: 42/42
+2025-01-26 03:10:41,816 - INFO - Scraping Successfully SVH: 42/42
+2025-01-26 03:12:34,181 - WARNING - Not enough reports SVT: 47/42
+2025-01-26 03:13:14,362 - INFO - Scraping Successfully SVG: 47/47
+2025-01-26 03:35:35,055 - INFO - Scraping Successfully SWC: 85/85

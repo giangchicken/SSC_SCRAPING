@@ -1,0 +1,15 @@
+2025-02-03 13:38:42,742 - INFO - Scraping Successfully PHS: 0/0
+2025-02-03 13:38:43,247 - INFO - Scraping Successfully PSG: 0/0
+2025-02-03 13:38:43,923 - INFO - Scraping Successfully NDF: 0/0
+2025-02-03 13:38:43,960 - INFO - Scraping Successfully NHP: 0/0
+2025-02-03 13:38:44,169 - INFO - Scraping Successfully MCD: 0/0
+2025-02-03 13:38:44,308 - INFO - Scraping Successfully MBS: 0/0
+2025-02-03 13:53:19,478 - INFO - Scraping Successfully LCC: 20/20
+2025-02-03 14:11:50,344 - WARNING - Not enough reports LHG: 50/71
+2025-02-03 14:11:54,740 - INFO - Scraping Successfully PSH: 56/56
+2025-02-03 14:13:08,399 - WARNING - Not enough reports NVB: 50/78
+2025-02-03 14:15:41,424 - INFO - Scraping Successfully NDP: 60/60
+2025-02-03 14:27:25,716 - WARNING - Not enough reports ND2: 90/41
+2025-02-03 14:30:16,714 - INFO - Scraping Successfully PGC: 80/80
+2025-02-03 14:34:38,296 - INFO - Scraping Successfully PDB: 84/84
+2025-02-03 14:36:19,877 - INFO - Scraping Successfully MBB: 87/87

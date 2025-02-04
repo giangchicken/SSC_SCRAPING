@@ -1,0 +1,12 @@
+2025-01-25 19:25:59,917 - INFO - Scraping Successfully S12: 7/7
+2025-01-25 19:26:20,790 - INFO - Scraping Successfully QNU: 8/8
+2025-01-25 19:28:35,180 - INFO - Scraping Successfully RAT: 16/16
+2025-01-25 19:28:37,212 - INFO - Scraping Successfully RBC: 14/14
+2025-01-25 19:40:00,026 - INFO - Scraping Successfully RIC: 41/41
+2025-01-25 19:40:54,584 - INFO - Scraping Successfully QST: 43/43
+2025-01-25 19:41:29,951 - INFO - Scraping Successfully QTP: 44/44
+2025-01-25 19:42:37,496 - INFO - Scraping Successfully ROS: 46/46
+2025-01-25 19:48:20,571 - INFO - Scraping Successfully RCC: 57/57
+2025-01-25 20:04:43,663 - INFO - Scraping Successfully QTC: 84/84
+2025-01-25 20:05:24,364 - INFO - Scraping Successfully QPH: 85/85
+2025-01-25 20:14:13,257 - WARNING - Not enough reports RTB: 101/91

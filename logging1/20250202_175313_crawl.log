@@ -1,0 +1,16 @@
+2025-02-02 17:54:24,233 - INFO - Scraping Successfully HAC: 0/0
+2025-02-02 17:54:26,135 - INFO - Scraping Successfully FTS: 0/0
+2025-02-02 17:54:29,058 - INFO - Scraping Successfully HBS: 0/0
+2025-02-02 17:59:59,102 - INFO - Scraping Successfully HBD: 0/0
+2025-02-02 18:11:40,671 - INFO - Scraping Successfully HAD: 42/42
+2025-02-02 18:14:14,539 - INFO - Scraping Successfully GSM: 47/47
+2025-02-02 18:28:19,479 - INFO - Scraping Successfully FMC: 72/72
+2025-02-02 18:30:09,926 - INFO - Scraping Successfully FOC: 75/75
+2025-02-02 18:30:40,124 - INFO - Scraping Successfully GVR: 76/76
+2025-02-02 18:33:15,751 - INFO - Scraping Successfully GAS: 80/80
+2025-02-02 18:33:59,798 - INFO - Scraping Successfully HBC: 81/81
+2025-02-02 18:35:13,161 - WARNING - Not enough reports GPC: 100/32
+2025-02-02 18:36:09,411 - WARNING - Not enough reports HAG: 86/82
+2025-02-02 18:40:42,438 - WARNING - Not enough reports HAH: 96/82
+2025-02-02 18:41:19,639 - WARNING - Not enough reports FIT: 97/83
+2025-02-02 18:49:42,624 - WARNING - Not enough reports GLW: 125/42

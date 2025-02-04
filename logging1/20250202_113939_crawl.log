@@ -1,0 +1,20 @@
+2025-02-02 11:40:57,151 - INFO - Scraping Successfully STL: 0/0
+2025-02-02 11:40:57,943 - INFO - Scraping Successfully TCI: 0/0
+2025-02-02 11:45:31,764 - WARNING - Not enough reports TDS: 0/39
+2025-02-02 11:52:01,104 - INFO - Scraping Successfully SZB: 29/29
+2025-02-02 11:52:25,956 - INFO - Scraping Successfully SVD: 30/30
+2025-02-02 11:56:02,676 - INFO - Scraping Successfully TIE: 37/37
+2025-02-02 11:58:21,648 - INFO - Scraping Successfully SVT: 42/42
+2025-02-02 12:00:13,678 - WARNING - Not enough reports TH1: 50/82
+2025-02-02 12:08:09,919 - WARNING - Not enough reports SVN: 61/57
+2025-02-02 12:10:50,401 - INFO - Scraping Successfully SZC: 65/65
+2025-02-02 12:11:22,309 - INFO - Scraping Successfully TAR: 66/66
+2025-02-02 12:14:59,518 - INFO - Scraping Successfully TCL: 72/72
+2025-02-02 12:17:10,420 - WARNING - Not enough reports TDW: 90/41
+2025-02-02 12:20:05,621 - INFO - Scraping Successfully TIG: 80/80
+2025-02-02 12:21:17,809 - INFO - Scraping Successfully TCO: 82/82
+2025-02-02 12:21:22,609 - INFO - Scraping Successfully TIP: 82/82
+2025-02-02 12:22:06,310 - INFO - Scraping Successfully THG: 83/83
+2025-02-02 12:22:34,542 - INFO - Scraping Successfully TCH: 84/84
+2025-02-02 12:33:03,533 - WARNING - Not enough reports TED: 102/93
+2025-02-02 12:33:42,875 - WARNING - Not enough reports STK: 106/85

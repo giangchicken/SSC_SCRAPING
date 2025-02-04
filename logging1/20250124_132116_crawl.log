@@ -1,0 +1,9 @@
+2025-01-24 13:22:27,055 - INFO - Scraping Successfully EVS: 0/0
+2025-01-24 13:24:24,035 - INFO - Scraping Successfully EPC: 5/5
+2025-01-24 13:25:10,797 - INFO - Scraping Successfully FCC: 7/7
+2025-01-24 13:25:10,827 - INFO - Scraping Successfully EMG: 7/7
+2025-01-24 13:25:12,558 - INFO - Scraping Successfully EME: 7/7
+2025-01-24 13:39:10,172 - INFO - Scraping Successfully EVF: 41/41
+2025-01-24 14:05:36,085 - WARNING - Not enough reports FCN: 89/83
+2025-01-24 14:06:25,281 - INFO - Scraping Successfully EVE: 88/88
+2025-01-24 14:11:56,490 - WARNING - Not enough reports EVG: 101/87

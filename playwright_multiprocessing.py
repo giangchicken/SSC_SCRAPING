@@ -91,7 +91,7 @@ class ProcessManager:
             except Exception as e:
                 print(f"Lỗi khi kết thúc process {pid}: {e}")
 
-def run_multiprocessing(symbols, config, timeout_per_process=600, time_log=200):
+def run_multiprocessing(symbols, config, timeout_per_process=4000, time_log=200):
     # Khởi tạo danh sách process managers
     process_managers = [ProcessManager(symbol, config, timeout_per_process) 
                        for symbol in symbols]
@@ -174,8 +174,8 @@ def read_log_and_display_results(log_directory="logging"):
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="Run financial data scraping with Playwright.")
-    parser.add_argument('--symbols_file', type=str, default='symbols.csv', help="Path to the CSV file containing stock symbols.")
-    parser.add_argument('--timeout_per_process', type=int, default=3200, help="Limit time for each process.")
+    parser.add_argument('--symbols_file', type=str, default='symbols_all.csv', help="Path to the CSV file containing stock symbols.")
+    parser.add_argument('--timeout_per_process', type=int, default=4000, help="Limit time for each process.")
     parser.add_argument('--logtime', type=int, default=200, help="Interval time for logging.")
     args = parser.parse_args()
 
@@ -185,7 +185,7 @@ if __name__ == "__main__":
 
     symbols_df = pd.read_csv(args.symbols_file)
     symbols = symbols_df['symbol'].tolist()
-    split_symbols = [symbols[i:i + 30] for i in range(0, len(symbols), 30)]
+    split_symbols = [symbols[i:i + 20] for i in range(0, len(symbols), 20)]
 
     # split_symbols = [["VIC", "HPG", "MSN", "FPT", "VPB"]]
 

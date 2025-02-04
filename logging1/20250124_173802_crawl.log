@@ -1,0 +1,15 @@
+2025-01-24 17:41:16,148 - INFO - Scraping Successfully HEP: 5/5
+2025-01-24 17:41:39,773 - INFO - Scraping Successfully HES: 6/6
+2025-01-24 17:42:03,336 - INFO - Scraping Successfully HD2: 7/7
+2025-01-24 17:42:03,430 - INFO - Scraping Successfully HDP: 7/7
+2025-01-24 17:43:52,809 - INFO - Scraping Successfully HD8: 12/12
+2025-01-24 17:43:59,745 - INFO - Scraping Successfully HFC: 12/12
+2025-01-24 17:44:36,014 - INFO - Scraping Successfully HFX: 16/16
+2025-01-24 17:44:44,544 - INFO - Scraping Successfully HEJ: 14/14
+2025-01-24 17:44:56,234 - INFO - Scraping Successfully HDM: 17/17
+2025-01-24 17:46:17,063 - INFO - Scraping Successfully HFB: 20/20
+2025-01-24 17:56:06,416 - WARNING - Not enough reports HDC: 30/83
+2025-01-24 18:13:25,321 - WARNING - Not enough reports HDB: 82/92
+2025-01-24 18:15:40,860 - WARNING - Not enough reports HEV: 90/40
+2025-01-24 18:16:10,257 - INFO - Scraping Successfully HDG: 77/77
+2025-01-24 18:17:25,114 - INFO - Scraping Successfully HEM: 79/79

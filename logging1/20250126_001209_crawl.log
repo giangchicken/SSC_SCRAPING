@@ -1,0 +1,19 @@
+2025-01-26 00:13:23,779 - INFO - Scraping Successfully SHS: 0/0
+2025-01-26 00:16:02,523 - INFO - Scraping Successfully SHC: 7/7
+2025-01-26 00:16:28,282 - INFO - Scraping Successfully SIV: 8/8
+2025-01-26 00:16:31,468 - INFO - Scraping Successfully SHX: 8/8
+2025-01-26 00:18:42,052 - INFO - Scraping Successfully SIG: 16/16
+2025-01-26 00:24:17,775 - INFO - Scraping Successfully SJC: 29/29
+2025-01-26 00:29:40,239 - INFO - Scraping Successfully SHE: 40/40
+2025-01-26 00:30:38,983 - INFO - Scraping Successfully SHG: 42/42
+2025-01-26 00:32:00,785 - INFO - Scraping Successfully SHP: 45/45
+2025-01-26 00:46:04,988 - INFO - Scraping Successfully SIP: 70/70
+2025-01-26 00:46:35,226 - WARNING - Not enough reports SHB: 62/84
+2025-01-26 00:49:32,595 - WARNING - Not enough reports SJG: 79/69
+2025-01-26 00:53:33,873 - INFO - Scraping Successfully SHI: 82/82
+2025-01-26 00:54:08,055 - INFO - Scraping Successfully SJF: 83/83
+2025-01-26 00:54:53,212 - INFO - Scraping Successfully SJE: 84/84
+2025-01-26 00:54:55,377 - INFO - Scraping Successfully SII: 84/84
+2025-01-26 00:56:54,367 - INFO - Scraping Successfully SJ1: 87/87
+2025-01-26 01:00:47,033 - WARNING - Not enough reports SHN: 94/82
+2025-01-26 01:08:50,703 - WARNING - Not enough reports SJD: 116/90

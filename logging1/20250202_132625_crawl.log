@@ -1,0 +1,13 @@
+2025-02-02 13:27:43,108 - INFO - Scraping Successfully SDB: 0/0
+2025-02-02 13:27:43,695 - INFO - Scraping Successfully SDX: 0/0
+2025-02-02 13:27:43,793 - INFO - Scraping Successfully SD8: 0/0
+2025-02-02 13:27:43,884 - INFO - Scraping Successfully S96: 0/0
+2025-02-02 13:32:15,670 - WARNING - Not enough reports SFC: 0/43
+2025-02-02 13:44:52,652 - INFO - Scraping Successfully SCL: 42/42
+2025-02-02 13:47:41,001 - WARNING - Not enough reports SDD: 48/43
+2025-02-02 13:48:35,561 - INFO - Scraping Successfully SDN: 49/49
+2025-02-02 13:58:11,074 - WARNING - Not enough reports SCJ: 74/48
+2025-02-02 14:07:48,562 - INFO - Scraping Successfully SAM: 82/82
+2025-02-02 14:08:38,673 - INFO - Scraping Successfully SEB: 83/83
+2025-02-02 14:10:53,804 - WARNING - Not enough reports SAB: 88/83
+2025-02-02 14:13:41,629 - INFO - Scraping Successfully RTB: 91/91

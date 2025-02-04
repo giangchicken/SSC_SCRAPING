@@ -1,0 +1,20 @@
+2025-01-24 12:35:04,425 - INFO - Scraping Successfully DVW: 7/7
+2025-01-24 12:35:09,689 - INFO - Scraping Successfully DXL: 7/7
+2025-01-24 12:37:00,671 - INFO - Scraping Successfully E29: 12/12
+2025-01-24 12:37:07,014 - INFO - Scraping Successfully EFI: 12/12
+2025-01-24 12:41:58,977 - INFO - Scraping Successfully E12: 26/26
+2025-01-24 12:42:46,521 - INFO - Scraping Successfully DWC: 28/28
+2025-01-24 12:48:37,800 - INFO - Scraping Successfully DXV: 40/40
+2025-01-24 12:49:39,102 - INFO - Scraping Successfully EIC: 42/42
+2025-01-24 12:50:32,610 - INFO - Scraping Successfully DVP: 44/44
+2025-01-24 12:50:35,846 - INFO - Scraping Successfully DXP: 44/44
+2025-01-24 12:52:41,730 - INFO - Scraping Successfully DWS: 48/48
+2025-01-24 12:57:40,021 - INFO - Scraping Successfully ECI: 57/57
+2025-01-24 12:58:17,284 - WARNING - Not enough reports DXS: 61/45
+2025-01-24 13:03:24,223 - INFO - Scraping Successfully EBS: 67/67
+2025-01-24 13:06:19,003 - INFO - Scraping Successfully DZM: 72/72
+2025-01-24 13:11:26,963 - WARNING - Not enough reports DXG: 81/78
+2025-01-24 13:11:56,497 - INFO - Scraping Successfully ELC: 81/81
+2025-01-24 13:14:35,912 - INFO - Scraping Successfully EIN: 85/85
+2025-01-24 13:18:26,689 - WARNING - Not enough reports EID: 95/82
+2025-01-24 13:18:49,257 - WARNING - Not enough reports EIB: 96/83

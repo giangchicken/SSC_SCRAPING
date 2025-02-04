@@ -1,0 +1,13 @@
+2025-01-26 12:17:01,258 - INFO - Scraping Successfully VDS: 0/0
+2025-01-26 12:17:50,337 - INFO - Scraping Successfully VES: 2/2
+2025-01-26 12:22:27,842 - INFO - Scraping Successfully VDN: 14/14
+2025-01-26 12:33:42,652 - INFO - Scraping Successfully VEF: 41/41
+2025-01-26 12:33:42,881 - INFO - Scraping Successfully VE8: 41/41
+2025-01-26 12:34:11,184 - INFO - Scraping Successfully VE9: 42/42
+2025-01-26 12:34:43,654 - INFO - Scraping Successfully VDP: 43/43
+2025-01-26 12:34:44,817 - INFO - Scraping Successfully VE1: 43/43
+2025-01-26 12:36:48,604 - WARNING - Not enough reports VET: 48/43
+2025-01-26 12:58:28,596 - INFO - Scraping Successfully VFC: 84/84
+2025-01-26 12:59:15,283 - INFO - Scraping Successfully VFR: 85/85
+2025-01-26 12:59:54,456 - INFO - Scraping Successfully VEC: 86/86
+2025-01-26 13:01:19,703 - WARNING - Not enough reports VDL: 91/82

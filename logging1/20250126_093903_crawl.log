@@ -1,0 +1,9 @@
+2025-01-26 09:40:21,948 - INFO - Scraping Successfully TVB: 0/0
+2025-01-26 09:42:41,767 - INFO - Scraping Successfully TVA: 6/6
+2025-01-26 09:43:05,183 - INFO - Scraping Successfully UCT: 7/7
+2025-01-26 09:54:37,691 - INFO - Scraping Successfully TVW: 36/36
+2025-01-26 09:58:30,693 - INFO - Scraping Successfully UDJ: 44/44
+2025-01-26 09:58:59,101 - WARNING - Not enough reports TVD: 45/44
+2025-01-26 10:00:03,630 - WARNING - Not enough reports TXM: 48/42
+2025-01-26 10:21:45,299 - INFO - Scraping Successfully TVN: 84/84
+2025-01-26 10:40:14,171 - WARNING - Not enough reports TVC: 131/84

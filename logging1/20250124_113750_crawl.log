@@ -1,0 +1,14 @@
+2025-01-24 11:39:53,797 - INFO - Scraping Successfully DUS: 2/2
+2025-01-24 11:41:22,570 - INFO - Scraping Successfully DTB: 6/6
+2025-01-24 11:41:45,753 - INFO - Scraping Successfully DTV: 7/7
+2025-01-24 11:41:49,371 - INFO - Scraping Successfully DTH: 7/7
+2025-01-24 11:44:43,485 - INFO - Scraping Successfully DVM: 17/17
+2025-01-24 11:50:00,881 - INFO - Scraping Successfully DTI: 29/29
+2025-01-24 11:55:15,841 - INFO - Scraping Successfully DTA: 40/40
+2025-01-24 11:55:47,683 - INFO - Scraping Successfully DVG: 41/41
+2025-01-24 11:55:50,102 - INFO - Scraping Successfully DTC: 41/41
+2025-01-24 11:59:56,715 - INFO - Scraping Successfully DTP: 49/49
+2025-01-24 12:16:50,207 - INFO - Scraping Successfully DST: 78/78
+2025-01-24 12:20:02,001 - WARNING - Not enough reports DTD: 82/73
+2025-01-24 12:21:09,241 - INFO - Scraping Successfully DVN: 85/85
+2025-01-24 12:28:00,034 - WARNING - Not enough reports DTL: 99/85

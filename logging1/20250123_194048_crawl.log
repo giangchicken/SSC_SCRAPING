@@ -1,0 +1,13 @@
+2025-01-23 19:42:01,790 - INFO - Scraping Successfully ABW: 0/0
+2025-01-23 19:42:08,183 - INFO - Scraping Successfully AAS: 0/0
+2025-01-23 19:45:38,017 - INFO - Scraping Successfully A32: 9/9
+2025-01-23 19:52:49,767 - INFO - Scraping Successfully ACS: 20/20
+2025-01-23 19:57:24,930 - INFO - Scraping Successfully AAT: 38/38
+2025-01-23 19:58:51,568 - INFO - Scraping Successfully ABI: 41/41
+2025-01-23 19:58:54,128 - INFO - Scraping Successfully ABS: 41/41
+2025-01-23 20:07:26,687 - INFO - Scraping Successfully ACM: 57/57
+2025-01-23 20:14:40,409 - WARNING - Not enough reports ABB: 61/90
+2025-01-23 20:14:42,295 - WARNING - Not enough reports ABC: 63/77
+2025-01-23 20:19:11,036 - WARNING - Not enough reports ABR: 70/62
+2025-01-23 20:19:45,644 - WARNING - Not enough reports ABT: 69/73
+2025-01-23 20:25:36,497 - INFO - Scraping Successfully ACC: 85/85

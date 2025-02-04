@@ -1,0 +1,15 @@
+2025-01-26 10:43:39,521 - INFO - Scraping Successfully V15: 0/0
+2025-01-26 10:46:46,717 - INFO - Scraping Successfully UMC: 8/8
+2025-01-26 10:47:51,152 - INFO - Scraping Successfully USD: 11/11
+2025-01-26 10:48:12,443 - INFO - Scraping Successfully UPC: 12/12
+2025-01-26 10:48:17,650 - INFO - Scraping Successfully VBH: 12/12
+2025-01-26 10:49:14,115 - INFO - Scraping Successfully USC: 0/0
+2025-01-26 11:00:18,993 - INFO - Scraping Successfully VAF: 41/41
+2025-01-26 11:00:51,076 - INFO - Scraping Successfully V12: 42/42
+2025-01-26 11:00:52,894 - INFO - Scraping Successfully UPH: 42/42
+2025-01-26 11:01:19,530 - INFO - Scraping Successfully UIC: 43/43
+2025-01-26 11:01:49,209 - INFO - Scraping Successfully VC1: 44/44
+2025-01-26 11:03:40,365 - WARNING - Not enough reports UNI: 48/45
+2025-01-26 11:09:23,914 - INFO - Scraping Successfully V21: 58/58
+2025-01-26 11:29:18,578 - WARNING - Not enough reports VAB: 91/84
+2025-01-26 11:30:58,192 - WARNING - Not enough reports VC2: 96/84
