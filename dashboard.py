@@ -43,9 +43,13 @@ st.title("📊 Financial Data Crawling Dashboard")
 # Log analysis
 st.header("📑 Log Analysis")
 success, error, error_rate = analyze_logs()
-st.metric(label="✅ Successful Crawls", value=success)
-st.metric(label="❌ Errors Encountered", value=error)
-st.metric(label="⚠️ Error Rate (%)", value=f"{error_rate:.2f}%")
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.metric(label="✅ Successful Crawls", value=success)
+with col2:
+    st.metric(label="❌ Errors Encountered", value=error)
+with col3:
+    st.metric(label="⚠️ Error Rate (%)", value=f"{error_rate:.2f}%")
 
 # Crawled file count
 st.header("📂 Crawled Files")
@@ -55,10 +59,15 @@ st.metric(label="📄 Total Crawled Files", value=total_files)
 # Test case
 st.header("🔍 Duplicate content KQKD vs BCDKT")
 total, error, error_rate = check_duplicate_content(config)
-st.metric(label="📊 Total Crawled Reports", value=success)
-st.metric(label="⚠️ Errors Reports", value=error)
-st.metric(label="❗ Error Rate (%)", value=f"{error_rate:.2f}%")
+col1, col2, col3 = st.columns(3)
+with col1:
+    st.metric(label="📊 Total Crawled Reports", value=success)
 
+with col2:
+    st.metric(label="⚠️ Errors Reports", value=error)
+
+with col3:
+    st.metric(label="❗ Error Rate (%)", value=f"{error_rate:.2f}%")
 
 st.header("🔍 Duplicate Financial Data Check")
 duplicate_count = check_duplicate_financial_tables(OUTPUT_DIR)

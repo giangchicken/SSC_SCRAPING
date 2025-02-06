@@ -32,7 +32,7 @@ def extract_symbols(log_folder_path):
 
     # Exclude symbols that appear in INFO logs from WARNING symbols
     final_warning_symbols = warning_symbols - info_symbols
-    print("Total Scraped symbols: ", len(list(final_warning_symbols)) + len(list(info_symbols)))
+    # print("Total Scraped symbols: ", len(list(final_warning_symbols)) + len(list(info_symbols)))
     info_symbols1 = info_symbols.copy()
     # Check folders in crawl_table for symbols in info_symbols
     for symbol in info_symbols:
@@ -42,19 +42,19 @@ def extract_symbols(log_folder_path):
             if len(success_df) != len(success_df["STT"].unique()):
                 final_warning_symbols.add(symbol)
                 info_symbols1.remove(symbol)
-                print("duplicate in success symbols: ")
-                print(symbol)
+                # print("duplicate in success symbols: ")
+                # print(symbol)
         except:
             final_warning_symbols.add(symbol)
             info_symbols1.remove(symbol)
-            print("Dont have success.csv: ")
-            print(symbol)
+            # print("Dont have success.csv: ")
+            # print(symbol)
 
     # Create a DataFrame to display the results
     warning_df = pd.DataFrame(final_warning_symbols, columns=["symbol"])
     info_df = pd.DataFrame(info_symbols1, columns=["symbol"])
-    print("Symbols with warnings (excluding those in INFO logs):")
-    print(warning_df)
+    # print("Symbols with warnings (excluding those in INFO logs):")
+    # print(warning_df)
 
     return warning_df, info_df
 
@@ -170,7 +170,8 @@ def check_duplicate_financial_tables(OUTPUT_DIR):
                                 # break  # Nếu đã tìm thấy trùng thì không cần kiểm tra thêm
             
         total_duplicates += stock_duplicate_count
-        # print(f"✅ {stock_code}: {stock_duplicate_count} duplicate reports")  # Log từng folder
+        if stock_duplicate_count > 0:
+            print(f"✅ {stock_code}: {stock_duplicate_count} duplicate reports")  # Log từng folder
 
     return total_duplicates
 
